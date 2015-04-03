@@ -1,0 +1,19 @@
+{
+  "logo": "Interstate Analytics",
+  "name": "interstate-analytics",
+  "repo": "logo/interstate-analytics",
+  "description": "The Interstate Analytics logo.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": [
+    "index.css"
+  ],
+  "images": [
+    "images/logo.svg",
+    "images/logo-black.svg",
+    "images/logo-white.svg"
+  ],
+  "dependencies": {
+    "logo/logo": "*"
+  }
+}
